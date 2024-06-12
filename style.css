@@ -17,3 +17,12 @@ margin-top: 5px;
 text-align: center;
 background-color: aliceblue;
 }
+
+.dark{
+  background-color: black;
+  color: white;
+}
+.light{
+  background-color: white;
+  color: black;
+}
